@@ -1,6 +1,6 @@
 
 
-<!--Script for pulling in events and adding to calendar-->
+//Script for pulling in events and adding to calendar-->
 
 <script language="javascript">
   
